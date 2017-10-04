@@ -14,6 +14,10 @@
 			background-color: none;
 		}
 
+		.jumborton {
+			background-image: url(Alitext.png);
+		}
+
 		.imgcontainer {
 			align-content: center;
 		}
